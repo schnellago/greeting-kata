@@ -1,5 +1,5 @@
-print("Good Morning")
+print("Happy Eastern")
 a = "Shasha"
 def greeting(a)
-	print("Good Morning" + a)
+	print("Happy Eastern" + a)
 print greeting(a)
